@@ -1,0 +1,5 @@
+# Clínica de Estética — Nível 1 (Essencial)
+
+Site modelo da **Highway Agência** para clínicas de estética, plano Nível 1. Uma página, responsivo, com WhatsApp em todas as seções.
+
+Dados fictícios (Clínica Alba, Cascavel/PR) — apenas para demonstração. Fotos: Unsplash (licença livre).
